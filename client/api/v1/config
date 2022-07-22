@@ -1,1 +1,27 @@
-1
+{
+  "key": "malio_planet",
+  "target": 2,
+  "email": "iscoconut@yahoo.com",
+  "tg": "https://t.me/cheapsv2ray",
+  "crisp": "",
+  "loginless": 0,
+  "loginless_link": "",
+  "code_login": 0,
+  "code_register": 0,
+  "captcha_login": 1,
+  "captcha_register": 1,
+  "captcha_checkin": 1,
+  "notice": 2,
+  "checkin": 1,
+  "line_flag_regex": "(^[^-\\s]+)[-\\s]*",
+  "line_exclude_loc": 0,
+  "payment_config": {
+    "Alipay": "2",
+    "Wechat": "2"
+  },
+  "malio_plans": 1,
+  "hosts": [
+    "https://cv2.work",
+    "https://cv2.info"
+  ]
+}
