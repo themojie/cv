@@ -17,7 +17,7 @@
   "line_exclude_loc": 0,
   "payment_config": {
     "Alipay": "2",
-    "Wechat": "2"
+    "Wechat": "0"
   },
   "malio_plans": 1,
   "hosts": [
