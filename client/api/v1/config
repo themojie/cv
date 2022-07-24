@@ -1,8 +1,8 @@
 {
-  "key": "malio_planet",
+  "key": "malio_cheapV2",
   "target": 2,
   "email": "iscoconut@yahoo.com",
-  "tg": "https://t.me/cheapsv2ray",
+  "tg": "https://t.me/cheapv2",
   "crisp": "",
   "loginless": 0,
   "loginless_link": "",
@@ -13,10 +13,10 @@
   "captcha_checkin": 1,
   "notice": 2,
   "checkin": 1,
-  "line_flag_regex": "(^[^-\\s]+)[-\\s]*",
+  "line_flag_regex": "",
   "line_exclude_loc": 0,
   "payment_config": {
-    "Alipay": "2",
+    "Alipay": "1",
     "Wechat": "0"
   },
   "malio_plans": 1,
